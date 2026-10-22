@@ -1,0 +1,5 @@
+channel,orders,completed_orders,completion_rate_pct,net_sales
+organic,2321,2003,86.3,11324700.0
+paid_search,1791,1553,86.71,8913500.0
+social,1198,1056,88.15,6143000.0
+referral,690,595,86.23,3386600.0

@@ -1,0 +1,13 @@
+product_id,category,unit_price,unit_cost
+1,Electronics,8500,6500
+2,Electronics,12500,9400
+3,Electronics,2900,1950
+4,Home,1500,800
+5,Home,3700,2300
+6,Home,6200,4000
+7,Beauty,700,260
+8,Beauty,1900,780
+9,Beauty,2400,1100
+10,Sports,4100,2450
+11,Sports,5500,3400
+12,Sports,2200,1050
