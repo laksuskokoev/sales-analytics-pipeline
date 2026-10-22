@@ -50,7 +50,6 @@ python -m pytest -q
 | `figures/` | plots displayed above |
 | `notebooks/walkthrough.ipynb` | read-through of metrics and interpretation |
 | `tests/` | smoke/invariant tests |
-| `docs/project_story_ru.md` | motivation, speaking points and limitations (RU) |
 
 ## Findings and recommended next steps
 
@@ -67,6 +66,3 @@ python -m pytest -q
 - Channel completion rate is the share of generated orders with status `completed`, **not** visit-to-purchase conversion.
 - The synthetic data were generated to demonstrate the analysis; the findings are not causal and should not be presented as discoveries about a real store.
 
-## Resume-ready formulation (accurate)
-
-> Built a reproducible educational sales analytics pipeline on 6,000 synthetic e-commerce orders using Python, SQLite and SQL; automated validation, metric aggregation, CSV reports and visualization; documented metric definitions and business limitations.
